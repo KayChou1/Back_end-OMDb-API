@@ -1,8 +1,28 @@
 h1{
-    background-image: url(https://media.giphy.com/media/2C8Kf24dnrYNW/giphy.gif);
+    
+    color: white;
 }
 
 .error{
-    color:pink; 
+    color:black; 
     font-weight: bold; 
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+
+}
+
+body{
+    background-image: url(https://thumbs.gfycat.com/BareReliableDogwoodclubgall-size_restricted.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
 }
