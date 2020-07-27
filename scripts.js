@@ -1,3 +1,4 @@
+alert (`This is a Movie API Project that is still in progress. Type in a movie title and click search to browse a varity of Movies`)
 const container = document.querySelector('.container'); 
 const error = document.querySelector('.error'); 
 const submit = document.querySelector(".Submit")
