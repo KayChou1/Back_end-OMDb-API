@@ -17,9 +17,11 @@ h1{
 }
 
 body{
-    background-image: url(https://thumbs.gfycat.com/CloseObviousHalcyon.webp);
+    background-image: url(https://i.imgur.com/pxBcq.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .card{
